@@ -1,6 +1,6 @@
 - I’m @emmacochran (she/her)
 - I'm currently a PhD student studying biosphere-atmosphere interactions at University College Dublin.
-- My research areas of interest are: eddy covariance, carbon and water fluxes, evapotranspiration, surface energy imbalance, ecosystem drought
+- My research areas of interest are: eddy covariance, carbon and water fluxes, evapotranspiration partitioning, and physics informed machine learning
 - My main languages are Python and R
 - You can reach me at cochranemma17@gmail.com
 
